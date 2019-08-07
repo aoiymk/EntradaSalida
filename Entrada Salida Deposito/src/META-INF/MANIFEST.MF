@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Class-Path: lib/Poligono_GPS/jscience.jar lib/SQl_Server/msbase.jar li
+ b/SQl_Server/mssqlserver.jar lib/SQl_Server/msutil.jar lib/Otros/log4
+ j-1.2.17.jar lib/Cassandra/asm-5.0.3.jar lib/Cassandra/asm-analysis-5
+ .0.3.jar lib/Cassandra/asm-commons-5.0.3.jar lib/Cassandra/asm-tree-5
+ .0.3.jar lib/Cassandra/asm-util-5.0.3.jar lib/Cassandra/cassandra-dri
+ ver-core-3.1.2.jar lib/Cassandra/guava-16.0.1.jar lib/Cassandra/jffi-
+ 1.2.10.jar lib/Cassandra/jnr-constants-0.9.0.jar lib/Cassandra/jnr-ff
+ i-2.0.7.jar lib/Cassandra/jnr-posix-3.0.27.jar lib/Cassandra/jnr-x86a
+ sm-1.0.2.jar lib/Cassandra/metrics-core-3.1.2.jar lib/Cassandra/netty
+ -buffer-4.0.37.Final.jar lib/Cassandra/netty-codec-4.0.37.Final.jar l
+ ib/Cassandra/netty-common-4.0.37.Final.jar lib/Cassandra/netty-handle
+ r-4.0.37.Final.jar lib/Cassandra/netty-transport-4.0.37.Final.jar lib
+ /Cassandra/slf4j-api-1.7.7.jar
+Main-Class: Proyecto.Core
+

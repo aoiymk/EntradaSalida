@@ -1,0 +1,7 @@
+SELECT DISTINCT
+[ID_DPT_DEPOSITO]
+,[F_lat_latitud]
+,[F_lon_longitud]
+,[ID_POS_COORDENADA]
+FROM [planeamiento].[LK_DPT_COORDENADAS]
+order by id_dpt_deposito , id_pos_coordenada

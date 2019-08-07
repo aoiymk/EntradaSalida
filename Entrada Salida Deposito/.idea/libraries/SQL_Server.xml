@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SQL Server">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/SQL_Server/msbase.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/SQL_Server/mssqlserver.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/SQL_Server/msutil.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

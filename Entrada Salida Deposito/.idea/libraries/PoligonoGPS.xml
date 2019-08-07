@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="PoligonoGPS">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/Poligono_GPS/jscience.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/Poligono_GPS/jscience.jar!/" />
+    </SOURCES>
+  </library>
+</component>

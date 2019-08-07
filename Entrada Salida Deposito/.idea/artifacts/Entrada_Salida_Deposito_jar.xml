@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact name="Entrada Salida Deposito:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Entrada_Salida_Deposito</output-path>
+    <root id="root">
+      <element id="archive" name="Entrada_Salida_Deposito.jar">
+        <element id="module-output" name="Entrada Salida Deposito" />
+      </element>
+      <element id="directory" name="lib">
+        <element id="dir-copy" path="$PROJECT_DIR$/lib" />
+      </element>
+      <element id="directory" name="Input">
+        <element id="dir-copy" path="$PROJECT_DIR$/Input" />
+      </element>
+    </root>
+  </artifact>
+</component>
